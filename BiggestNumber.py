@@ -1,3 +1,7 @@
+"""This Program gets the user to type 2 numbers and the program gives the user
+the higher value number of the two"""
+
+
 def compare_numbers(A, B):
     if A == B:
         print("The numbers are equal.")
